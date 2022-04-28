@@ -1,0 +1,75 @@
+print --> To print something or display some message on the screen.
+
+print('Hello')
+print("Hello")
+print("I'm HD")
+print('I\'m HD')
+print('Cric"buzz')
+print("Cric\"buzz")
+
+print('we are python \ 
+in 2nd floor started \
+with basics')
+
+print('''Hey what is go"i'ng on''')
+
+print("""Hey Python Pro"gram'ming""")
+
+print("""hey
+
+      Bye""")
+
+
+1Q)   Hello Python
+
+print('Hello Python')
+print("Hello Python")
+print('''Hello Python''')
+print("""Hello Python""")
+
+
+2Q)  Hello Pyth'on
+
+
+print('Hello Pyth\'on')
+print("Hello Pyth'on")
+print('''Hello Pyth'on''')
+print("""Hello Pyth\'on""")
+
+
+
+3Q)  print(Hello Coding)
+
+
+print('print(Hello Coding)')
+print("print(Hello Coding)")
+print('''print(Hello Coding)''')
+print("""print(Hello Coding)""")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
