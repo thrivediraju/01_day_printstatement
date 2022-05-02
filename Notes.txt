@@ -30,7 +30,6 @@ print("""Hello Python""")
 
 2Q)  Hello Pyth'on
 
-
 print('Hello Pyth\'on')
 print("Hello Pyth'on")
 print('''Hello Pyth'on''')
@@ -40,36 +39,7 @@ print("""Hello Pyth\'on""")
 
 3Q)  print(Hello Coding)
 
-
 print('print(Hello Coding)')
 print("print(Hello Coding)")
 print('''print(Hello Coding)''')
 print("""print(Hello Coding)""")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
