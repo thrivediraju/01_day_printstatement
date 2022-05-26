@@ -1,4 +1,4 @@
-print --> To print something or display some message on the screen.
+"""To print something or display some message on the screen"""
 
 print('Hello')
 print("Hello")
